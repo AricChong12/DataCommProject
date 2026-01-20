@@ -11,3 +11,5 @@ WEAKNESSES
 3. 21 constant does not remains on third octet
 4. Can add server on one of the branches
 5. RIP Routing Protocol conflicts with OSPF
+
+The project is a team project for Data Communication and Networking
