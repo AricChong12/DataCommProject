@@ -1,5 +1,5 @@
 # DataCommProject
-DataComm and Networking Project 
+As part of a team project, we developed a network solution to meet an office's ICT requirements, covering hardware provisioning, configuration procedures, and IP address management. We designed and configured the network collaboratively and documented our process in a professional technical report. While we faced challenges such as classful subnetting issues, RIP-OSPF conflicts, and inconsistent DHCP deployment, these limitations taught us valuable lessons in protocol compatibility, subnet planning, and troubleshooting. The project strengthened our technical skills, teamwork, and ability to communicate effectively in a professional environment.
 
 NOTES
 -----
