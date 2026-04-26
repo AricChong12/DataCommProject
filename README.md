@@ -13,3 +13,12 @@ WEAKNESSES
 5. RIP Routing Protocol conflicts with OSPF
 
 The project is a team project for Data Communication and Networking
+
+
+## Network Topology
+![Topology](https://github.com/AricChong12/DataCommProject/blob/main/Topology.png)
+
+
+## VLSM Subnetting
+![HQ](https://github.com/AricChong12/DataCommProject/blob/main/HQ.png)
+![KulimKerteh](https://github.com/AricChong12/DataCommProject/blob/main/KulimKerteh.png)
